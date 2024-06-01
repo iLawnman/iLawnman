@@ -1,6 +1,8 @@
 ## ILIA SAMOVICHEV
-
 ***Unity Developer***
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-plain.svg" title="Unity" alt="Unity" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="X-Code" alt="X-Code" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/76126020/128593868-99520c87-2b52-46d8-8ed0-e14458115823.png" alt="ARF" width="80" height= "40"/>
+
 
 Summary
 
