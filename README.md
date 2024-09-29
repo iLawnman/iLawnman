@@ -28,6 +28,6 @@ Using Dependency Injection with Zenject, VContainer<br>
 Using AR/VR Frameworks ARFoundation (ARCore/ARKit), Vuforia<br>
 Integrate 3rd-party SDKs<br>
 Integrate with Android and IOS environment.<br>
-CD/CI - Github / GitLab / PlasticSMC<br>
+CI/CD pipeline - Github / GitLab / PlasticSMC<br>
 X-Code / X-Code Cloud build / deploy pipeline<br>
 Deploy to stores (AppStore/GooglePlay/Steam/Facebook)
