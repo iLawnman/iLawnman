@@ -5,24 +5,29 @@
 
 
 I'm developer experienced in Unity 3D/2D Game full development circle.
+
 Summary
 
-Game Developer with 6+ years of experience in the mobile / pc and AR gaming industry.
-Proficient in all-stages of game development life-cycle.
-Strong understanding of game mechanics, user experience, and industry trends.
-Fast-prototyping within a dynamic environment.
-Strong problem-solving and debugging.
+Game Developer with 6+ years of experience in the mobile / pc and AR gaming industry.<br>
+Proficient in all-stages of game development life-cycle.<br>
+Strong understanding of game mechanics, user experience, and industry trends.<br>
+Fast-prototyping within a dynamic environment.<br>
+Strong problem-solving and debugging.<br>
+
+
 Unity Engine:
 
-Full control on Unity Engine Pipeline.
-Strong Optimization on CPU, GPU and Memory
-Debugging on Unity Editor, IDE and real devices.
-Strong C# and .NET knowledge with Object-oriented programming (OOP)
-Using appropriate Design Patterns (Mostly, Observer, Singleton, Service-Locator, Object-Pool, Factory)
-SOLID Principles
-DOTS frameworks using ECS 1.X / LeoECS
-Using Dependency Injection with Zenject, VContainer
-Using AR/VR Frameworks ARFoundation (ARCore/ARKit), Vuforia
-Integrate 3rd-party SDKs
-Integrate with Android and IOS environment.
+Full control on Unity Engine Pipeline.<br>
+Strong Optimization on CPU, GPU and Memory.<br>
+Debugging on Unity Editor, IDE and real devices.<br>
+Strong C# and .NET knowledge with Object-oriented programming (OOP)<br>
+Using appropriate Design Patterns (Mostly, Observer, Singleton, Service-Locator, Object-Pool, Factory)<br>
+SOLID Principles<br>
+DOTS frameworks using ECS 1.X / LeoECS<br>
+Using Dependency Injection with Zenject, VContainer<br>
+Using AR/VR Frameworks ARFoundation (ARCore/ARKit), Vuforia<br>
+Integrate 3rd-party SDKs<br>
+Integrate with Android and IOS environment.<br>
+CD/CI - Github / GitLab / PlasticSMC<br>
+X-Code / X-Code Cloud build / deploy pipeline<br>
 Deploy to stores (AppStore/GooglePlay/Steam/Facebook)
