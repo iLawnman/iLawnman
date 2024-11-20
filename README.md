@@ -17,18 +17,18 @@ Strong problem-solving and debugging.<br>
 
 Unity Engine:
 
-Full control on Unity Engine Pipeline.
-Strong Optimization on CPU, GPU and Memory
-Debugging on Unity Editor, IDE and real devices.
-Strong C# and .NET knowledge with Object-oriented programming (OOP) / DOTS
-Using appropriate Design Patterns (Observer, Singleton, Service-Locator, Object-Pool, Factory etc)
-Using SOLID Principles / Data Driven Design
-ECS frameworks using ECS 1.0 and above, Entities / LeoECS
-Using Dependency Injection with Zenject, VContainer
-Using AR/VR Frameworks ARFoundation (ARCore/ARKit), Vuforia
-Using Network solutions - UNET, MIrror, Photon, WebRTС, FacebookSDK
-Integrate 3rd-party SDKs
-CI/CВ pipeline - Github / GitLab / Plastic
-X-Code / X-Code Cloud build / deploy pipeline
-Integrate with Android and IOS environment.
-Deploy to stores AppStore/GooglePlay/Steam/Facebook
+Full control on Unity Engine Pipeline.<br>
+Strong Optimization on CPU, GPU and Memory<br>
+Debugging on Unity Editor, IDE and real devices.<br>
+Strong C# and .NET knowledge with Object-oriented programming (OOP) / DOTS<br>
+Using appropriate Design Patterns (Observer, Singleton, Service-Locator, Object-Pool, Factory etc)<br>
+Using SOLID Principles / Data Driven Design<br>
+ECS frameworks using ECS 1.0 and above, Entities / LeoECS<br>
+Using Dependency Injection with Zenject, VContainer<br>
+Using AR/VR Frameworks ARFoundation (ARCore/ARKit), Vuforia<br>
+Using Network solutions - UNET, MIrror, Photon, WebRTС, FacebookSDK<br>
+Integrate 3rd-party SDKs<br>
+CI/CВ pipeline - Github / GitLab / Plastic<br>
+X-Code / X-Code Cloud build / deploy pipeline<br>
+Integrate with Android and IOS environment.<br>
+Deploy to stores AppStore/GooglePlay/Steam/Facebook<br>
