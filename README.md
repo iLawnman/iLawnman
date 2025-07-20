@@ -8,7 +8,7 @@ I'm developer experienced in Unity 3D/2D Game full development circle.
 
 Summary
 
-Game Developer with 6+ years of experience in the mobile / pc and AR gaming industry.<br>
+Game Developer with 8+ years of experience in the mobile / pc and AR gaming industry.<br>
 Proficient in all-stages of game development life-cycle.<br>
 Strong understanding of game mechanics, user experience, and industry trends.<br>
 Fast-prototyping within a dynamic environment.<br>
@@ -17,16 +17,17 @@ Strong problem-solving and debugging.<br>
 
 Unity Engine:
 
-Full control on Unity Engine Pipeline.<br>
 Strong Optimization on CPU, GPU and Memory<br>
 Debugging on Unity Editor, IDE and real devices.<br>
-Strong C# and .NET knowledge with Object-oriented programming (OOP) / DOTS<br>
-Using appropriate Design Patterns (Observer, Singleton, Service-Locator, Object-Pool, Factory etc)<br>
-Using SOLID Principles / Data Driven Design<br>
+Strong C# and .NET knowledge with various architectural and design patterns<br>
+Using various architectural and design patterns and their combinations<br>
+Full control on Unity Engine Pipeline.<br>
+Unity stack:
 ECS frameworks using ECS 1.0 and above, Entities / LeoECS<br>
 Using Dependency Injection with Zenject, VContainer<br>
 Using AR/VR Frameworks ARFoundation (ARCore/ARKit), Vuforia<br>
 Using Network solutions - UNET, MIrror, Photon, WebRTС, FacebookSDK<br>
+Different Graphs tools using (Shader/VFX/etc)
 Integrate 3rd-party SDKs<br>
 CI/CВ pipeline - Github / GitLab / Plastic<br>
 X-Code / X-Code Cloud build / deploy pipeline<br>
